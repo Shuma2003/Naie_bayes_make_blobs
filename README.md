@@ -53,7 +53,7 @@ naive-bayes-blobs/
 Clone the repository
 
 bash
-git clone https://github.com/your-username/naive-bayes-blobs.git
+git clone [https://github.com/your-username/naive-bayes-blobs.git](https://github.com/Shuma2003/Naie_bayes_make_blobs/tree/main).git
 cd naive-bayes-blobs
 Create virtual environment (optional but recommended)
 
